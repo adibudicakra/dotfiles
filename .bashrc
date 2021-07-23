@@ -612,6 +612,3 @@ nvm() {
   [ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion"  # This loads nvm bash_completion
   nvm "$@"
 }
-
-export PASSWORD="HU2021{7168f8dc649c2cb6c380208c0c8d56b2}"
-
